@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "349745402062",
+    "project_id": "smartshop-1f2c1",
+    "storage_bucket": "smartshop-1f2c1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349745402062:android:39a2cd2c97bdfe558b409f",
+        "android_client_info": {
+          "package_name": "com.sas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349745402062-esgbv5bbgoj94usll7nrm6qvphtd8nhq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQttW_pWd1o8D1nfHoAdbO9SP7rfCNsi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "349745402062-esgbv5bbgoj94usll7nrm6qvphtd8nhq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

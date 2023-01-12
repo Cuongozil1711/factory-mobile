@@ -1,0 +1,74 @@
+{
+  "ctp": {
+     "title" : "SmartShop",
+     "search": "Tìm kiếm",
+     "shop": "Sản phẩm",
+     "sumItem": "Tổng hàng:",
+     "details": "Chi tiết sản phẩm",
+     "order": "Đơn hàng",
+     "manager": "Quản lý",
+      "user": "Sửa thông tin",
+      "item" : {
+        "code": "Mã sản phẩm",
+        "name": "Tên sản phẩm",
+        "inWareHouse": "Tồn kho",
+        "outWareHouse": "Đã bán",
+        "category": "Loại mặt hàng",
+        "price": "Giá bán",
+        "priceItem": "Giá",
+        "stt": "STT",
+        "unit": "Đơn vị tính",
+        "quanlity": "Số lượng"
+      },
+      "orderDetails": {
+        "details": "Chi tiết đơn hàng"
+      },
+      "importWareHouse": {
+        "title": "Nhập kho",
+        "create": "Thêm nhập kho",
+        "details": "Chi tiết nhập kho",
+        "quickLy": "Nhập nhanh",
+        "ocr": "Nhập OCR"
+      },
+      "receiptImportWareHouse": {
+        "title": "Phiếu nhập kho",
+        "create": "Thêm phiếu nhập",
+        "details": "Chi tiết nhập kho"
+      },
+      "exportWareHouse": {
+        "title": "Xuất kho",
+        "create": "Thêm xuất kho",
+        "details": "Chi tiết xuất kho"
+      },
+      "receiptExportWareHouse": {
+        "title": "Phiếu xuất kho",
+        "create": "Thêm phiếu xuất",
+        "details": "Chi tiết xuất kho"
+      },
+      "promotion": {
+        "title": "Khuyến mại",
+        "create": "Tạo khuyến mại",
+        "details": "Chi tiết khuyến mại"
+      },
+      "customer": {
+        "title": "Khách hàng",
+        "create": "Thêm khách hàng",
+        "details": "Chi tiết khách hàng"
+      },
+      "employee": {
+        "title": "Nhân viên",
+        "create": "Thêm nhân viên",
+        "details": "Chi tiết nhân viên"
+      },
+      "bill": {
+        "title": "Khách nợ",
+        "create": "Thêm nợ"
+      }
+  },
+  "dialog" : {
+    "notification" : "Thông báo",
+    "update": "Cập nhật thành công",
+    "loading": "loading",
+    "yes": "Đồng ý"
+  }
+}

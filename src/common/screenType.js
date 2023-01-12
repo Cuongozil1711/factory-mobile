@@ -1,0 +1,73 @@
+export const APP_SCREEN = {
+  UN_AUTHORIZE: {
+    ROOT: 'UN_AUTHORIZE',
+    LOGIN: 'LOGIN',
+    REGISTER: 'REGISTER',
+    OTP: 'OTP',
+  },
+  AUTHORIZE: {
+    ROOT: 'AUTHORIZE',
+    PROFILE: 'PROFILE',
+  },
+  HOME: {
+    ROOT: 'ROOT',
+    HOME_APP: 'HOME_APP',
+    BOTTOM_HOME: 'BOTTOM_HOME',
+    PROFILE_EDIT: 'PROFILE_EDIT',
+    FOOTER_BOTTOM: {
+      HOME: 'home',
+      ORDER_SHOP: 'ORDER_SHOP',
+      WARE_HOUSE: 'WARE_HOUSE',
+      TAB_ITEM: 'TAB_ITEM',
+      PROFILE: 'PROFILE',
+      ITEM: {
+        ITEM_HOME: 'ITEM_HOME',
+        ITEM_DETAILS: 'ITEM_DETAILS',
+        ITEM_SCANNER: 'ITEM_SCANNER',
+      },
+      ORDER: {
+        ITEM_ORDER: 'ITEM_ORDER',
+        SEARCH_ORDER: 'SEARCH_ORDER',
+      },
+    },
+    IMPORT_WAREHOUSE: {
+      MAIN: 'IMPORT',
+      DETAIL: 'DETAIL_IMPORT',
+      CAMERA: 'CAMERA',
+      IMPORT_QUICKLY: 'IMPORT_QUICKLY',
+      CAMERA_QUICKLY: 'CAMERA_QUICKLY',
+      CAMERA_OCR: 'CAMERA_OCR',
+      DETAIL_OCR: 'DETAIL_OCR',
+      DETAIL_ITEM: 'DETAIL_ITEM_SCANNER',
+      DETAIL_ITEM_IMAGE: 'DETAIL_ITEM_IMAGE',
+    },
+    RECEIPT_IMPORT_WAREHOUSE: {
+      MAIN: 'RECEIPT_IMPORT',
+      DETAIL: 'RECEIPT_DETAIL',
+    },
+    EXPORT_WAREHOUSE: {
+      MAIN: 'EXPORT',
+      DETAIL: 'DETAIL_EXPORT',
+      CAMERA: 'CAMERA_EXPORT',
+    },
+    RECEIPT_EXPORT_WAREHOUSE: {
+      MAIN: 'RECEIPT_EXPORT',
+      DETAIL: 'RECEIPT_DETAIL',
+    },
+    PROMOTION: {
+      MAIN: 'PROMOTION',
+    },
+    CUSTOMER: {
+      MAIN: 'CUSTOMER',
+      ORDER: 'ORDER_CUSTOMER',
+    },
+    EMPLOYEE: {
+      MAIN: 'EMPLOYEE',
+      ORDER: 'ORDER_EMPLOYEE',
+    },
+    DEBIT: {
+      MAIN: 'DEBIT',
+      ORDER: 'DEBIT_EMPLOYEE',
+    },
+  },
+};

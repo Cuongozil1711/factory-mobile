@@ -1,0 +1,13 @@
+Mở project:
+- Thư viện cần có: NodeJs, gradle, sdk, jdk
+Chạy android: 
+- B1: Chạy terminal: npm install 
+- B2: Cài đặt android stuido 
+- B3: Thư viện: gradle, sdk => Check version: gradle -v
+- B4: Build app bằng cap usb máy thật or chọn máy ảo
+Chạy ios:
+- B1: Cần máy Mac
+- B2: cd project vào ios
+- B3: pod install (nếu chưa có pod => brew install cocoapods)
+- B4: Cài đặt xcode trong AppStore
+- B5: Run project bằng xcode
